@@ -4,4 +4,4 @@ title: Registration
 permalink: /registration/
 ---
 
-# Registration Information # 
+# Registration Information 
