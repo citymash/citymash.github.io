@@ -1,6 +1,6 @@
 ---
 layout: page
-title: \#CityMash
+title: #CityMash
 ---
 
 \#Citymash is a 'Mashed Library' day of workshops and conversation for people interested in doing fun stuff involving libraries and technology.
