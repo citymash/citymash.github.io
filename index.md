@@ -10,3 +10,5 @@ Hosted by the Department of Library and Information Science (#citylis) at City U
 Saturday 3 June 2015, times, 9-5pm; venue: City University London.
 
 More information will be added in the coming weeks. 
+
+This page is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Exceptions: embeds to and from external sources, and direct quotations
