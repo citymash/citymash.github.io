@@ -9,3 +9,5 @@ permalink: /about/
 ![SSI](http://www.software.ac.uk/attach/SSILogo4Citations.png "ssi")
 
 ![](https://epriego.files.wordpress.com/2014/12/2013-02-13-19-28-46.jpg?w=300&h=225)
+
+![](http://ninefeettall.com/wp-content/uploads/2014/05/City-University-Logo.jpg)
