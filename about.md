@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+## Support 
+
 \#citymash has been supported by the [Software Sustainability Institute](http://www.software.ac.uk/). The Software Sustainability Institute cultivates world-class research with software. The Institute is based at the universities of Edinburgh, Manchester, Southampton and Oxford.
 
 ![SSI](http://www.software.ac.uk/attach/SSILogo4Citations.png "ssi")
