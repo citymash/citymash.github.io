@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![SSI](http://github.io/images/ssi.png "ssi")
+![SSI](citymash.github.io/images/ssi.png "ssi")
 
 \#citymash has been supported by the [Software Sustainability Institute](http://www.software.ac.uk/). The Software Sustainability Institute cultivates world-class research with software. The Institute is based at the universities of Edinburgh, Manchester, Southampton and Oxford.
 
