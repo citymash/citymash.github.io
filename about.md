@@ -22,6 +22,7 @@ More information will be added in the coming weeks.
 
 ![](https://epriego.files.wordpress.com/2014/12/2013-02-13-19-28-46.jpg?w=300&h=225)
 \#Citymash will be hosted by [\#Citylis](http://www.city.ac.uk/department-library-information-science/information-studies-scheme)
+
 ---
 
 ![](http://ninefeettall.com/wp-content/uploads/2014/05/City-University-Logo.jpg)
