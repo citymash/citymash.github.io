@@ -10,6 +10,7 @@ Hosted by the Department of Library and Information Science (#citylis) at City U
 Saturday 13 June 2015, times, 9-5pm; venue: City University London.
 
 More information will be added in the coming weeks. 
+
 ---
 ## "\#citymash - call for session leaders"
 
