@@ -13,7 +13,7 @@ More information will be added in the coming weeks.
 
 ---
 
-## call for session leaders
+## Call for session leaders
 
 Libraries in the 21st century are increasingly technology-driven, from coding to blogging, from digitisation projects to Twitter outreach.  The rapidness with which these technologies are permeating the GLAM sector can sometimes be daunting and challenging for librarians and info practitioners at all levels and at all stages of their careers.
 
@@ -23,7 +23,7 @@ The event will be centred around some planned workshops and sessions, as well as
 
 We hope to foster a lasting spirit of collaboration between professionals in the field, and, more importantly, to prove that using technology in libraries doesn’t have to be scary – and can even be fun.
 
-To that end, we would like to put out a call for session leaders who share this ideal and would like to help their fellow librarians feel more comfortable using technology.  Any experience you’ve encountered in your professional role would be invaluable to us and your peers.  If you’d like to volunteer and register your interest in leading a session for \#citymash, please contact [Sarah Stewart](sastewart@live.co.uk) citing your expertise and/or your ideas for pitching a session.
+To that end, we would like to put out a call for session leaders who share this ideal and would like to help their fellow librarians feel more comfortable using technology.  Any experience you’ve encountered in your professional role would be invaluable to us and your peers.  If you’d like to volunteer and register your interest in leading a session for \#citymash, please contact [Sarah Stewart]<sastewart@live.co.uk> citing your expertise and/or your ideas for pitching a session.
 
 ---
 This page is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Exceptions: embeds to and from external sources, and direct quotations
