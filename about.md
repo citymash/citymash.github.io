@@ -20,9 +20,9 @@ More information will be added in the coming weeks.
 
 ---
 
-\#citymash has been supported by [figshare](http://figshare.com/).figshare is a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner. 
+\#citymash has been supported by [figshare](http://figshare.com/). figshare is a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner. 
 
-![figshare](http://previews.figshare.com/1863545/preview_1863545.jpg "Figshare")
+![figshare](http://previews.figshare.com/1863545/preview_1863545.jpg)
 
 ---
 
