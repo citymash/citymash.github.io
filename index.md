@@ -12,6 +12,7 @@ Saturday 13 June 2015, times, 9-5pm; venue: City University London.
 More information will be added in the coming weeks. 
 
 ---
+
 ## call for session leaders
 
 Libraries in the 21st century are increasingly technology-driven, from coding to blogging, from digitisation projects to Twitter outreach.  The rapidness with which these technologies are permeating the GLAM sector can sometimes be daunting and challenging for librarians and info practitioners at all levels and at all stages of their careers.
