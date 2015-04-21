@@ -22,7 +22,7 @@ More information will be added in the coming weeks.
 
 \#citymash has been supported by [figshare](http://figshare.com/). figshare is a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner. 
 
-![](http://previews.figshare.com/1863545/preview_1863545.jpg)
+![](http://12hoy26budd28l29v3kl2fq1.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/logo-figshare.png)
 
 ---
 
