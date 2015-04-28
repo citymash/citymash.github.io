@@ -35,4 +35,8 @@ More information will be added in the coming weeks.
 ![](http://ninefeettall.com/wp-content/uploads/2014/05/City-University-Logo.jpg)
 
 ---
+Logo Image source: [Open Clipart](https://openclipart.org/detail/25719/aiga-restaurant)
+
+---
 This page is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Exceptions: embeds to and from external sources, and direct quotations
+
