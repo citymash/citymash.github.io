@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "#CityMash"
-tags: [citymash, London, libraries, technology, open access, learning, City University, citylis ] 
+tags: [citymash, London, libraries, technology, open access, learning, City University, citylis ]
+description: webpage for Citymash confence taking place in london on Saturday 13 June 2015
+keywords: london, citymash, \#citymash, city university, \#citylis, citylis
 ---
 
 \#Citymash is a 'Mashed Library' day of workshops and conversation for people interested in doing fun stuff involving libraries and technology.
