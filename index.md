@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "#CityMash"
+tags: [citymash, London, libraries, technology, open access, learning, City University, citylis ] 
 ---
 
 \#Citymash is a 'Mashed Library' day of workshops and conversation for people interested in doing fun stuff involving libraries and technology.
