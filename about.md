@@ -2,7 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-description: Citymash is a ‘Mashed Library’ day of workshops and conversation for people interested in doing fun stuff involving libraries and technology.
+description: Citymash is a ‘Mashed Library’ day of workshops and conversation for people interested in doing fun stuff involving libraries and technology. Citymash will take place at City university in London.
+tags: [london, citymash, city university, confence, workshops, technology, seminar, library, libraries]
 ---
 
 \#Citymash is a ‘Mashed Library’ day of workshops and conversation for people interested in doing fun stuff involving libraries and technology.
