@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: Citymash is a ‘Mashed Library’ day of workshops and conversation for people interested in doing fun stuff involving libraries and technology.
 ---
 
 \#Citymash is a ‘Mashed Library’ day of workshops and conversation for people interested in doing fun stuff involving libraries and technology.
