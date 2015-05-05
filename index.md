@@ -10,7 +10,10 @@ keywords: london, citymash, \#citymash, city university, \#citylis, citylis
 
 Hosted by the Department of Library and Information Science (#citylis) at City University London, the day will include practical workshop sessions for various ranges of technical ability, as well as seminars and discussions.
 
-Saturday 13 June 2015, times, 9-5pm; venue: City University London.
+* Saturday 13 June 2015
+* Registration from 9 a.m.
+* Programme 10 a.m. - 5 p.m
+* Venue: City University London.
 
 More information will be added in the coming weeks. 
 
