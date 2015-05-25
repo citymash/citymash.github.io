@@ -1,6 +1,9 @@
 ---
 layout: page
-permalink: /speakers
+title: Speakers
+permalink: /speakers/
+description: Speakers for citymash
+tags:  [speakers, london, citymash, city university]
 ---
 
 Current confirmed speakers for #citymash:
