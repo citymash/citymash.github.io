@@ -12,7 +12,7 @@ keywords: citymash, libraries, technology, london, open access
 Hosted by the Department of Library and Information Science (#citylis) at City University London, the day will include practical workshop sessions for various ranges of technical ability, as well as seminars and discussions.
 
 * Saturday 13 June 2015
-* Registration from 9 a.m.
+* Registration from 9.30 a.m.
 * Programme 10 a.m. - 5 p.m
 * Venue: City University London.
 
