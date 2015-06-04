@@ -17,5 +17,8 @@ Current confirmed speakers for \#citymash:
 * Carlos Iszak – Freelance educator: “'The Maker Cart: A Mobile Making Station for Libraries”
 * Matt Finch – Writer and independent library consultant: "Death and burlesque, cardboard and coffee: The high-tech low-tech library"
 * Sarah Stewart - Library and Information Assistant, The Natural History Museum: “Seek and Discover!: Ways of looking at user search behaviour using discovery systems. (Case studies using the Natural History Museum's Primo interface)”
+James Atkinson - Information Assistant, City University London Library: “What about the Future? : Looking at past predictions about the future and suggesting some of our own”
+* Lyn Robinson - Reader in Library and Information Science, City University London: "NSFW - fan works in the library."
+* Ludi Price - PhD student in Information Science, City University London: "NSFW - fan works in the library."
 
 Speakers are subject to change.
