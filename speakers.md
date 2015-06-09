@@ -20,7 +20,10 @@ Current confirmed speakers for \#citymash:
 * James Atkinson - Information Assistant, City University London Library: “What about the Future? : Looking at past predictions about the future and suggesting some of our own”
 * Lyn Robinson - Reader in Library and Information Science, City University London: "NSFW - fan works in the library."
 * Ludi Price - PhD student in Information Science, City University London: "NSFW - fan works in the library."
+<<<<<<< HEAD
 * Oliver Bridle, Biosciences Librarian, Bodleian: "The 3D printing lab at the Bodleian".
+=======
+>>>>>>> FETCH_HEAD
 * Daniel van Strien - Library Assistant, Newcomb Library Homerton Hospital/citylis student - "Using Markdown and plain text to keep your words mobile and beautiful"
 
 Speakers are subject to change.
