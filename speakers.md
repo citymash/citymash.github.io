@@ -22,5 +22,6 @@ Current confirmed speakers for \#citymash:
 * Ludi Price - PhD student in Information Science, City University London: "NSFW - fan works in the library."
 * Oliver Bridle - Biosciences Librarian, Bodleian: "The 3D printing lab at the Bodleian".
 * Daniel van Strien - Library Assistant, Newcomb Library Homerton Hospital/citylis student - "Using Markdown and plain text to keep your words mobile and beautiful"
+* Gary Green - Technical Librarian, Surrey County Council Library Service
 
 Speakers are subject to change.
