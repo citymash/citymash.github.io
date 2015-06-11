@@ -13,9 +13,11 @@ Hosted by the Department of Library and Information Science (#citylis) at City U
 * Saturday 13 June 2015
 * Registration from 9.30 a.m.
 * Programme 10 a.m. - 5 p.m
-* Venue: City University London.
+* College Building, First Floor, Rooms A107, A108, A109, A110, A111, A112, City University London
 
-More information will be added in the coming weeks. 
+Entrance by St John Street. Map: [http://www.city.ac.uk/visit](http://www.city.ac.uk/visit) 
+
+ 
 
 ---
 
