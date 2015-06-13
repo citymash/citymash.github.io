@@ -20,6 +20,6 @@ Please note that as this is an unconference, timings are expected to be fluid an
 | **13:00-14:00**  |   |   | Lunch     |   |   |   |   |
 | **14:00-15:00**   | The 3D printing lab at the Bodleian   | What about the Future?    | Hub   | So you want to be a systems librarian?    |   | Reflection space  |   |
 | **15:00-15:15**   |   |   | Break     |   |   |   |   |
-| **15:15-16:15**   |   |   | Hub   | The Maker Cart    | storytelling, interactive fiction & games    | Reflection space  |   |
-| **16:15-17:15**   | NSFW: Fanworks in the library     |   | Hub   | Open-source implementation    |   | Reflection space  |   |
+| **15:15-16:15**   |   |   | Hub   | Open-source implementation   | storytelling, interactive fiction & games    | Reflection space  |   |
+| **16:15-17:15**   | NSFW: Fanworks in the library     |   | Hub   | The Maker Cart     |   | Reflection space  |   |
 | **17:15-onwards**     |   |   | Drinks at Old Red Lion Pub, 418 St. John Street, EC1V 4NJ     |   |   |   |   |
