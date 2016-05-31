@@ -17,4 +17,3 @@ Populate this with more content related to sessions?
 
 * [British Library Labs](http://labs.bl.uk/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-* 
